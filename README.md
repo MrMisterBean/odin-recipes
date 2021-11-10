@@ -1,3 +1,3 @@
 # odin-recipes
 
-A html-only page featuring three different recipes
+A page featuring three different recipes
