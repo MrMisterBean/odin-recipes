@@ -1,0 +1,18 @@
+* {
+    background-color: #181A1B;
+}
+
+h1 {
+    color: white;
+    font-size: 64px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline wavy;
+}
+
+ul {
+    font-size: 32px;
+    color: white;
+    padding-left: 41%;
+    padding-top: 3%;
+}
